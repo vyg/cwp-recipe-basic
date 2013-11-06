@@ -27,7 +27,8 @@
 		"undefinedoffset/sortablegridfield": "dev-master"
 	},
 	"require-dev": {
-		"phpunit/phpunit": "3.7.*@stable"
+		"phpunit/phpunit": "3.7.*@stable",
+		"hafriedlander/phockito": "dev-master"
 	},
 	"repositories": [
 		{
