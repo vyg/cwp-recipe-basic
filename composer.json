@@ -14,7 +14,7 @@
 		"silverstripe/fulltextsearch": "1.0.1-rc1",
 		"silverstripe/html5": "1.0.1-rc1",
 		"silverstripe/iframe": "1.0.1-rc1",
-		"silverstripe/queuedjobs": "2.0.1-rc1",
+		"silverstripe/queuedjobs": "2.0.1-rc2",
 		"silverstripe/multivaluefield": "2.0.1-rc1",
 		"silverstripe/registry": "1.0.1-rc1",
 		"silverstripe/restfulserver": "1.0.1-rc1",
