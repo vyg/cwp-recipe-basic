@@ -17,13 +17,13 @@
 		"silverstripe/queuedjobs": "2.0.2",
 		"silverstripe/registry": "1.0.2",
 		"silverstripe/restfulserver": "1.0.2",
-		"undefinedoffset/sortablegridfield": "1.0.2"
+		"undefinedoffset/sortablegridfield": "1.0.2",
 		"silverstripe/subsites": "1.0.2",
 		"silverstripe/taxonomy": "1.0.2",
 		"silverstripe/translatable": "2.0.2",
 		"silverstripe/userforms": "2.0.2",
 		"silverstripe/versionedfiles": "1.0.2",
-		"silverstripe/versionfeed": "1.0.2",
+		"silverstripe/versionfeed": "1.0.2"
 	},
 	"repositories": [
 		{
