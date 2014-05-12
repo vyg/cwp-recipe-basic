@@ -23,7 +23,8 @@
 		"silverstripe/translatable": "2.0.2",
 		"silverstripe/userforms": "2.0.2",
 		"silverstripe/versionedfiles": "1.0.2",
-		"silverstripe/versionfeed": "1.0.2"
+		"silverstripe/versionfeed": "1.0.2",
+		"silverstripe/securityreport": "1.0.0"
 	},
 	"repositories": [
 		{
