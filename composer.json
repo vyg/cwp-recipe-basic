@@ -10,6 +10,7 @@
 		"silverstripe/framework": "3.1.5",
 		"silverstripe/advancedworkflow": "3.0.3",
 		"silverstripe/documentconverter": "1.0.3",
+		"silverstripe/externallinks": "1.0.0",
 		"silverstripe/fulltextsearch": "1.0.3",
 		"silverstripe/html5": "1.0.2",
 		"silverstripe/iframe": "1.0.3",
