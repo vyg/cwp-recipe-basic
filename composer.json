@@ -24,7 +24,7 @@
 		"silverstripe/selectupload": "dev-master",
 		"undefinedoffset/sortablegridfield": "dev-master",
 		"silverstripe/spellcheck": "dev-master",
-		"silverstripe/subsites": "dev-master",
+		"silverstripe/subsites": "1.0.x-dev",
 		"silverstripe/taxonomy": "dev-master",
 		"silverstripe/translatable": "2.0.x-dev",
 		"silverstripe/userforms": "dev-master",
