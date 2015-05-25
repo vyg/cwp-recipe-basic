@@ -13,7 +13,7 @@
 		"silverstripe/externallinks": "dev-master",
 		"silverstripe/fulltextsearch": "dev-master",
 		"silverstripe/html5": "dev-master",
-		"silverstripe/iframe": "dev-master",
+		"silverstripe/iframe": "1.0.6",
 		"silverstripe/mimevalidator": "dev-master",
 		"silverstripe/multivaluefield": "dev-master",
 		"silverstripe/queuedjobs": "dev-master",
