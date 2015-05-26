@@ -29,7 +29,7 @@
 		"silverstripe/translatable": "2.0.x-dev",
 		"silverstripe/userforms": "dev-master",
 		"silverstripe/versionedfiles": "dev-master",
-		"silverstripe/versionfeed": "dev-master"
+		"silverstripe/versionfeed": "1.1.0"
 	},
 	"repositories": [
 		{
