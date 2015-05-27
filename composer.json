@@ -21,7 +21,7 @@
 		"silverstripe/restfulserver": "dev-master",
 		"silverstripe/secureassets": "dev-master",
 		"silverstripe/securityreport": "dev-master",
-		"silverstripe/selectupload": "dev-master",
+		"silverstripe/selectupload": "1.0.2",
 		"undefinedoffset/sortablegridfield": "1.0.7",
 		"silverstripe/spellcheck": "1.0.2",
 		"silverstripe/subsites": "1.0.x-dev",
