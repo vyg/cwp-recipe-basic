@@ -14,7 +14,7 @@
 		"silverstripe/fulltextsearch": "dev-master",
 		"silverstripe/html5": "1.0.2",
 		"silverstripe/iframe": "1.0.6",
-		"silverstripe/mimevalidator": "dev-master",
+		"silverstripe/mimevalidator": "1.0.3",
 		"silverstripe/multivaluefield": "dev-master",
 		"silverstripe/queuedjobs": "dev-master",
 		"silverstripe/registry": "dev-master",
