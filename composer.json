@@ -22,7 +22,7 @@
 		"silverstripe/secureassets": "dev-master",
 		"silverstripe/securityreport": "dev-master",
 		"silverstripe/selectupload": "dev-master",
-		"undefinedoffset/sortablegridfield": "dev-master",
+		"undefinedoffset/sortablegridfield": "1.0.7",
 		"silverstripe/spellcheck": "1.0.2",
 		"silverstripe/subsites": "1.0.x-dev",
 		"silverstripe/taxonomy": "1.0.4",
