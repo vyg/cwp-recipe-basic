@@ -9,7 +9,7 @@
 		"silverstripe/cms": "3.1.13-rc1",
 		"silverstripe/framework": "3.1.13-rc1",
 		"silverstripe/advancedworkflow": "dev-master",
-		"silverstripe/documentconverter": "dev-master",
+		"silverstripe/documentconverter": "1.0.7",
 		"silverstripe/externallinks": "1.0.2",
 		"silverstripe/fulltextsearch": "1.1.0",
 		"silverstripe/html5": "1.0.2",
