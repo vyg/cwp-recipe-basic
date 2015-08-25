@@ -8,7 +8,7 @@
 		"cwp/cwp-core": "dev-master",
 		"silverstripe/cms": "3.1.13",
 		"silverstripe/framework": "3.1.13",
-		"silverstripe/advancedworkflow": "dev-master",
+		"silverstripe/advancedworkflow": "3.2.1",
 		"silverstripe/documentconverter": "dev-master",
 		"silverstripe/externallinks": "dev-master",
 		"silverstripe/fulltextsearch": "2.0.x-dev",
