@@ -29,7 +29,7 @@
 		"silverstripe/subsites": "1.0.8",
 		"silverstripe/taxonomy": "1.1.0",
 		"silverstripe/translatable": "2.0.9",
-		"silverstripe/userforms": "3.0.0",
+		"silverstripe/userforms": "3.0.x-dev",
 		"silverstripe/versionedfiles": "1.0.6",
 		"silverstripe/versionfeed": "1.1.1"
 	},
