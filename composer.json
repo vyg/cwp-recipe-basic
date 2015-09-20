@@ -13,6 +13,7 @@
 		"silverstripe/documentconverter": "dev-master",
 		"silverstripe/externallinks": "dev-master",
 		"silverstripe/fulltextsearch": "2.0.x-dev",
+		"silverstripe-australia/gridfieldextensions": "~1.1",
 		"silverstripe/html5": "dev-master",
 		"silverstripe/iframe": "dev-master",
 		"silverstripe/mimevalidator": "dev-master",
