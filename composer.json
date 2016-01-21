@@ -27,7 +27,7 @@
 		"silverstripe/secureassets": "1.0.x-dev",
 		"silverstripe/securityreport": "1.0.x-dev",
 		"silverstripe/selectupload": "1.0.x-dev",
-		"silverstripe/sharedraftcontent": "1.0.x-dev",
+		"silverstripe/sharedraftcontent": "1.1.x-dev",
 		"silverstripe/sitewidecontent-report": "2.0.x-dev",
 		"undefinedoffset/sortablegridfield": "dev-master",
 		"silverstripe/spellcheck": "1.0.x-dev",
