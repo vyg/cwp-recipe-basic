@@ -33,10 +33,10 @@
 		"silverstripe/spellcheck": "1.0.5",
 		"silverstripe/subsites": "1.2.1",
 		"silverstripe/taxonomy": "1.1.2",
-		"silverstripe/translatable": "2.1.x-dev",
-		"silverstripe/userforms": "3.1.x-dev",
-		"silverstripe/versionedfiles": "1.0.x-dev",
-		"silverstripe/versionfeed": "1.2.x-dev"
+		"silverstripe/translatable": "2.1.1",
+		"silverstripe/userforms": "3.1.1",
+		"silverstripe/versionedfiles": "1.0.8",
+		"silverstripe/versionfeed": "1.2.1"
 	},
 	"repositories": [
 		{
