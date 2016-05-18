@@ -11,7 +11,7 @@
 		"silverstripe/framework": "3.4.x-dev",
 		"silverstripe/siteconfig": "3.4.x-dev",
 		"silverstripe/reports": "3.4.x-dev",
-		"silverstripe/advancedworkflow": "3.3.x-dev",
+		"silverstripe/advancedworkflow": "3.3.2",
 		"silverstripe/contentreview": "3.0.x-dev",
 		"silverstripe/documentconverter": "1.0.x-dev",
 		"silverstripe/externallinks": "1.0.x-dev",
