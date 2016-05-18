@@ -12,7 +12,7 @@
 		"silverstripe/siteconfig": "3.4.x-dev",
 		"silverstripe/reports": "3.4.x-dev",
 		"silverstripe/advancedworkflow": "3.3.2",
-		"silverstripe/contentreview": "3.0.x-dev",
+		"silverstripe/contentreview": "3.0.2",
 		"silverstripe/documentconverter": "1.0.11",
 		"silverstripe/externallinks": "1.0.5",
 		"silverstripe/fulltextsearch": "2.2.0",
