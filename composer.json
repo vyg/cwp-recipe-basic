@@ -23,7 +23,7 @@
 		"silverstripe/mimevalidator": "1.0.6",
 		"silverstripe/multivaluefield": "2.2.4",
 		"silverstripe/queuedjobs": "2.8.5",
-		"silverstripe/registry": "1.0.x-dev",
+		"silverstripe/registry": "1.0.10",
 		"silverstripe/restfulserver": "1.0.5",
 		"silverstripe/secureassets": "1.1.0",
 		"silverstripe/securityreport": "1.0.5",
