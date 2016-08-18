@@ -34,7 +34,7 @@
 		"silverstripe/subsites": "1.3.x-dev",
 		"silverstripe/taxonomy": "1.1.x-dev",
 		"silverstripe/translatable": "2.2.x-dev",
-		"silverstripe/userforms": "4.0.x-dev",
+		"silverstripe/userforms": "4.1.x-dev",
 		"silverstripe/versionedfiles": "1.0.x-dev",
 		"silverstripe/versionfeed": "1.2.x-dev"
 	},
