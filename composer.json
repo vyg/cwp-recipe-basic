@@ -16,7 +16,7 @@
 		"silverstripe/documentconverter": "1.0.12",
 		"silverstripe/externallinks": "1.0.6",
 		"silverstripe/fulltextsearch": "2.2.1",
-		"silverstripe-australia/gridfieldextensions": "~1.4.2",
+		"silverstripe-australia/gridfieldextensions": "~1.4.2@stable",
 		"silverstripe/html5": "1.0.4",
 		"silverstripe/iframe": "1.0.11",
 		"silverstripe/mimevalidator": "1.0.6",
@@ -44,5 +44,5 @@
 			"url": "https://packages.cwp.govt.nz/"
 		}
 	],
-	"minimum-stability": "stable"
+	"minimum-stability": "dev"
 }
