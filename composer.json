@@ -44,5 +44,5 @@
 			"url": "https://packages.cwp.govt.nz/"
 		}
 	],
-	"minimum-stability": "dev"
+	"minimum-stability": "stable"
 }
