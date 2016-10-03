@@ -1,0 +1,17 @@
+{
+  "child-stability-inherit": [
+    "cwp/cwp",
+    "cwp/cwp-core"
+  ],
+  "upgrade-only": [
+    "silverstripe/cms",
+    "silverstripe/framework",
+    "silverstripe/siteconfig",
+    "silverstripe/reports",
+    "silverstripe-australia/gridfieldextensions"
+  ],
+  "vendors": [
+    "cwp",
+    "silverstripe"
+  ]
+}
