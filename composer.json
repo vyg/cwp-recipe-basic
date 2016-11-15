@@ -15,7 +15,7 @@
 		"silverstripe/contentreview": "3.0.x-dev",
 		"silverstripe/documentconverter": "1.0.x-dev",
 		"silverstripe/externallinks": "1.0.x-dev",
-		"silverstripe/fulltextsearch": "2.2.x-dev",
+		"silverstripe/fulltextsearch": "2.3.x-dev",
 		"silverstripe-australia/gridfieldextensions": "~1.4.2",
 		"silverstripe/html5": "1.0.x-dev",
 		"silverstripe/iframe": "1.0.x-dev",
