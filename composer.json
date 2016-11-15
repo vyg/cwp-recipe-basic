@@ -21,7 +21,7 @@
 		"silverstripe/iframe": "1.0.x-dev",
 		"silverstripe/mimevalidator": "1.0.x-dev",
 		"silverstripe/multivaluefield": "2.3.x-dev",
-		"silverstripe/queuedjobs": "2.8.x-dev",
+		"silverstripe/queuedjobs": "2.9.x-dev",
 		"silverstripe/registry": "1.0.x-dev",
 		"silverstripe/restfulserver": "1.0.x-dev",
 		"silverstripe/secureassets": "1.1.x-dev",
