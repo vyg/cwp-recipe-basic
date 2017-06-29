@@ -5,7 +5,7 @@
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "cwp"],
 	"require": {
-		"php": ">=5.3.2",
+		"php": ">=5.6",
 		"cwp/cwp": "1.5.x-dev",
 		"cwp/cwp-core": "1.5.x-dev",
 		"silverstripe/cms": "3.5.x-dev",
