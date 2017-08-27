@@ -8,10 +8,11 @@
     "silverstripe/framework",
     "silverstripe/siteconfig",
     "silverstripe/reports",
-    "silverstripe-australia/gridfieldextensions"
+    "symbiote/silverstripe-gridfieldextensions"
   ],
   "vendors": [
     "cwp",
-    "silverstripe"
+    "silverstripe",
+    "symbiote"
   ]
 }
