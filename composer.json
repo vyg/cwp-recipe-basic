@@ -6,8 +6,8 @@
   "keywords": ["silverstripe", "cwp"],
     "require": {
         "php": ">=5.6",
-        "cwp/cwp": "1.7.x-dev",
-        "cwp/cwp-core": "1.7.x-dev",
+        "cwp/cwp": "1.8.x-dev",
+        "cwp/cwp-core": "1.8.x-dev",
         "silverstripe/cms": "~3.6.0",
         "silverstripe/framework": "~3.6.0",
         "silverstripe/siteconfig": "~3.6.0",
