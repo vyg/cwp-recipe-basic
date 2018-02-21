@@ -1,8 +1,5 @@
 {
-  "child-stability-inherit": [
-    "cwp/cwp",
-    "cwp/cwp-core"
-  ],
+  "child-stability-inherit": true,
   "upgrade-only": [
     "silverstripe/cms",
     "silverstripe/framework",
