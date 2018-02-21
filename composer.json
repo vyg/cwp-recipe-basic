@@ -33,7 +33,7 @@
         "undefinedoffset/sortablegridfield": "~0.6.9",
         "silverstripe/spellcheck": "1.0.x-dev",
         "silverstripe/subsites": "1.3.x-dev",
-        "silverstripe/taxonomy": "1.2.x-dev",
+        "silverstripe/taxonomy": "1.3.x-dev",
         "silverstripe/translatable": "2.2.x-dev",
         "silverstripe/userforms": "4.5.x-dev",
         "symbiote/silverstripe-versionedfiles": "2.0.x-dev",
