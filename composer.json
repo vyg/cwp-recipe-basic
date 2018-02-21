@@ -12,7 +12,7 @@
         "silverstripe/framework": "~3.6.0",
         "silverstripe/siteconfig": "~3.6.0",
         "silverstripe/reports": "~3.6.0",
-        "symbiote/silverstripe-advancedworkflow": "4.0.x-dev",
+        "symbiote/silverstripe-advancedworkflow": "4.1.x-dev",
         "silverstripe/contentreview": "3.0.x-dev",
         "silverstripe/documentconverter": "1.0.x-dev",
         "silverstripe/externallinks": "1.0.x-dev",
