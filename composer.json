@@ -15,7 +15,7 @@
         "symbiote/silverstripe-advancedworkflow": "4.1.x-dev",
         "silverstripe/contentreview": "3.0.x-dev",
         "silverstripe/documentconverter": "1.0.x-dev",
-        "silverstripe/externallinks": "1.0.x-dev",
+        "silverstripe/externallinks": "1.1.x-dev",
         "silverstripe/fulltextsearch": "2.4.x-dev",
         "symbiote/silverstripe-gridfieldextensions": "^2.0",
         "silverstripe/html5": "1.0.x-dev",
