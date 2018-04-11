@@ -32,7 +32,7 @@
         "silverstripe/selectupload": "1.0.x-dev",
         "silverstripe/sharedraftcontent": "1.1.x-dev",
         "silverstripe/sitewidecontent-report": "2.0.x-dev",
-        "undefinedoffset/sortablegridfield": "dev-master",
+        "undefinedoffset/sortablegridfield": "~0.6.9",
         "silverstripe/spellcheck": "1.0.x-dev",
         "silverstripe/subsites": "1.3.x-dev",
         "silverstripe/taxonomy": "1.1.x-dev",
